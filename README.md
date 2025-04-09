@@ -37,11 +37,11 @@
 </head>
 <body>
     <h1>商品編號：332</h1>
-    <img src="IMG_1065.jpeg" alt="PS4 數位版商品圖">
+    <img src="IMG_1065.jpeg" alt="PS4 數位版商品圖">（二手）
 </body>
 </html>
 <h1>商品編號：332</h1>
-    <img src="IMG_1065.jpeg" alt="PS4 數位版商品圖">
+    <img src="IMG_1064.jpeg" alt=" 數位版商品圖">9乘新
 </body>
 </html>
 <h1>商品編號：332</h1>
