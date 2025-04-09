@@ -29,3 +29,14 @@
     <div class="code">商品編號：333</div>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>商品展示</title>
+</head>
+<body>
+    <h1>商品編號：332</h1>
+    <img src="IMG_1066.jpeg" alt="PS4 數位版商品圖">
+</body>
+</html>
