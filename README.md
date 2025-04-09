@@ -2,10 +2,30 @@
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
-    <title>商品展示</title>
+    <title>商品展示 - 商品編號 333</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f9f9f9;
+        }
+        img {
+            max-width: 90%;
+            height: auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+        .code {
+            margin-top: 20px;
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #333;
+        }
+    </style>
 </head>
 <body>
-    <h1>商品編號：333</h1>
-    <img src="ps5-digital-edition.jpg" alt="PS5 數位版">
+    <h1>商品資訊</h1>
+    <img src="3C6691FB-69C9-46F3-8845-958180D861D4.jpeg" alt="PS5 數位版商品圖">
+    <div class="code">商品編號：333</div>
 </body>
 </html>
