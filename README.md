@@ -25,7 +25,7 @@
 </head>
 <body>
     <h1>商品資訊</h1>
-    <img src="3C6691FB-69C9-46F3-8845-958180D861D4.jpeg" alt="PS5 數位版商品圖">
+    <img src="IMG_1066.jpeg" alt="PS5 數位版商品圖">
     <div class="code">商品編號：333</div>
 </body>
 </html>
