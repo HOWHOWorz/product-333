@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1>商品編號：333</h1>
-    <img src="ps5-digital-edition.jpg" alt="IMG_1066.jpeg">
+    <img src="IMG_1066.jpeg.jpg"
 </body>
 </html>
