@@ -1,17 +1,4 @@
 
-        }
-        img {
-            max-width: 90%;
-            height: auto;
-            box-shadow: 0 0 10px rgba(0,0,0,0.2);
-        }
-        .code {
-            margin-top: 20px;
-            font-size: 1.5em;
-            font-weight: bold;
-            color: #333;
-        }
-    </style>
 </head>
 <body>
     <h1>商品資訊</h1>
